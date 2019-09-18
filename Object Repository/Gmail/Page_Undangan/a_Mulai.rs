@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mulai</name>
+   <tag></tag>
+   <elementGuidId>c90c9b6d-ef79-47eb-9719-5e3ba4122c5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Verifikasi Email' or . = 'Verifikasi Email')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=':c9']/div/table/tbody/tr/td[2]/table[2]/tbody/tr[3]/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m_3211166916579527529btn m_3211166916579527529btn-small</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://click.pstmrk.it/2s/ptolemy.kode.id%2Fverify-invitation%3Ftoken%3DeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb21wYW55SWQiOiIxZjhiZjYwNS0zNDQ3LTQwYTYtYTMwOS1lOTYyMDQ4ZWVmMDYiLCJlbWFpbCI6ImZmYWRpbGFAa29kZS5pZCIsImlhdCI6MTU2ODAyNTkzOCwiZXhwIjoxNTcwNjE3OTM4fQ.tVGNsR82pZ8htZ3EIfbEzWMnNGiy0F9B1DnqVpbwDVE%26companyId%3D1f8bf605-3447-40a6-a309-e962048eef06%26companyName%3DEnginer%26userEmail%3Dffadila%40kode.id/1GUAuAQ/M3ZL/qjbN-atQc0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-saferedirecturl</name>
+      <type>Main</type>
+      <value>https://www.google.com/url?q=https://click.pstmrk.it/2s/ptolemy.kode.id%252Fverify-invitation%253Ftoken%253DeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb21wYW55SWQiOiIxZjhiZjYwNS0zNDQ3LTQwYTYtYTMwOS1lOTYyMDQ4ZWVmMDYiLCJlbWFpbCI6ImZmYWRpbGFAa29kZS5pZCIsImlhdCI6MTU2ODAyNTkzOCwiZXhwIjoxNTcwNjE3OTM4fQ.tVGNsR82pZ8htZ3EIfbEzWMnNGiy0F9B1DnqVpbwDVE%2526companyId%253D1f8bf605-3447-40a6-a309-e962048eef06%2526companyName%253DEnginer%2526userEmail%253Dffadila%2540kode.id/1GUAuAQ/M3ZL/qjbN-atQc0&amp;source=gmail&amp;ust=1568453935758000&amp;usg=AFQjCNGGLKlT7nKaIFDwEltTFSPp3Zntmw</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verifikasi Email</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:c9&quot;)/div[1]/table[@class=&quot;m_3211166916579527529body m_3211166916579527529pb3&quot;]/tbody[1]/tr[1]/td[@class=&quot;m_3211166916579527529container&quot;]/table[2]/tbody[1]/tr[3]/td[@class=&quot;m_3211166916579527529text-center m_3211166916579527529pt2 m_3211166916579527529pb1&quot;]/a[@class=&quot;m_3211166916579527529btn m_3211166916579527529btn-small&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':m1']/div/table/tbody/tr/td[2]/table[2]/tbody/tr[3]/td/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mulai')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ffadila@kode.id'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Turn off for: Indonesian'])[1]/following::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT Hacktivate Teknologi Indonesia. All Rights Reserved.'])[1]/preceding::a[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reply'])[1]/preceding::a[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://click.pstmrk.it/2s/ptolemy.kode.id%2Fverify-invitation%3Ftoken%3DeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb21wYW55SWQiOiIxZjhiZjYwNS0zNDQ3LTQwYTYtYTMwOS1lOTYyMDQ4ZWVmMDYiLCJlbWFpbCI6ImZmYWRpbGFAa29kZS5pZCIsImlhdCI6MTU2ODAyNTkzOCwiZXhwIjoxNTcwNjE3OTM4fQ.tVGNsR82pZ8htZ3EIfbEzWMnNGiy0F9B1DnqVpbwDVE%26companyId%3D1f8bf605-3447-40a6-a309-e962048eef06%26companyName%3DEnginer%26userEmail%3Dffadila%40kode.id/1GUAuAQ/M3ZL/qjbN-atQc0')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+   </webElementXpaths>
+</WebElementEntity>

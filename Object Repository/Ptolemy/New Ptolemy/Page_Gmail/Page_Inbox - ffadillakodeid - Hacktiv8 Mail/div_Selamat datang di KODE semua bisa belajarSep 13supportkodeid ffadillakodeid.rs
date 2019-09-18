@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Selamat datang di KODE semua bisa belajarSep 13supportkodeid ffadillakodeid</name>
+   <tag></tag>
+   <elementGuidId>bcebd8b5-b1a1-40b7-88f8-755c11c0d654</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gs_ars50_0']/table/tbody/tr/td[2]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;gs_ars50_0&quot;)/table[1]/tbody[1]/tr[1]/td[2]/div[@class=&quot;gsar_b&quot;][count(. | //div[@class = 'gsar_b' and (text() = 'Selamat datang di KODE, semua bisa belajar!Sep 13support@kode.id, ffadilla@kode.id' or . = 'Selamat datang di KODE, semua bisa belajar!Sep 13support@kode.id, ffadilla@kode.id')]) = count(//div[@class = 'gsar_b' and (text() = 'Selamat datang di KODE, semua bisa belajar!Sep 13support@kode.id, ffadilla@kode.id' or . = 'Selamat datang di KODE, semua bisa belajar!Sep 13support@kode.id, ffadilla@kode.id')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gsar_b</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selamat datang di KODE, semua bisa belajar!Sep 13support@kode.id, ffadilla@kode.id</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gs_ars50_0&quot;)/table[1]/tbody[1]/tr[1]/td[2]/div[@class=&quot;gsar_b&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gs_ars50_0']/table/tbody/tr/td[2]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::div[6]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hacktiv8 Mail (standard view) guide'])[1]/following::div[25]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div</value>
+   </webElementXpaths>
+</WebElementEntity>
