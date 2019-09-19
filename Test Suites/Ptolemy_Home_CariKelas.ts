@@ -16,4 +16,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Ptolemy_Home_Cari_Kelas</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>bf49681c-6869-48d9-978c-2bc7010cde46</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Filter_Belajar</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>

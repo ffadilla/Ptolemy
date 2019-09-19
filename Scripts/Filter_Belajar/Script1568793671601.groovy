@@ -35,6 +35,8 @@ WebUI.sendKeys(findTestObject('Object Repository/Ptolemy_FilterBelajar/Page_Home
 
 WebUI.click(findTestObject('Object Repository/Ptolemy_FilterBelajar/Page_Katalog Course - KODE/span_Mengenal Webpack JavaScript Module Bundler'))
 
+WebUI.delay(35)
+
 WebUI.setText(findTestObject('Object Repository/Ptolemy_FilterBelajar/Page_Mengenal Webpack JavaScript Module Bundler - Classroom - KODE/input_catalog_css-s6jaux'), 
     'Development')
 
@@ -44,6 +46,8 @@ WebUI.sendKeys(findTestObject('Ptolemy_FilterBelajar/Page_Mengenal Webpack JavaS
 WebUI.click(findTestObject('Ptolemy_FilterBelajar/Page_Katalog Course - KODE/span_Full Stack Development Membuat Weather App'))
 
 WebUI.click(findTestObject('Ptolemy_FilterBelajar/Page_Full Stack Development Membuat Weather App - Classroom - KODE/video_Riza FahmiCurriculum Director Hacktiv8 Indonesia_jw-video jw-reset'))
+
+WebUI.delay(40)
 
 WebUI.click(findTestObject('Ptolemy_FilterBelajar/Page_Full Stack Development Membuat Weather App - Classroom - KODE/div_EE'))
 
