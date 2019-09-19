@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User perorangan cari kelas</description>
+   <name>Ptolemy_Home_Cari_Kelas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34bd52bc-9f09-4412-bcf5-6f0eb62bb29d</testCaseGuid>
+</TestCaseEntity>
