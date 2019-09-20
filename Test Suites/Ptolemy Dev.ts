@@ -22,4 +22,28 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/PtolemySignUpOutlook</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>b99af863-f505-4b30-ad24-a119ef88e13f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Ptolemy_Home_Cari_Kelas</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fd6f92d6-9f96-4bd5-9f09-48af181b4aac</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Filter_Belajar</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>058759af-73df-4b20-a3f5-d921e60a517e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Ptolemy_Setting_Profile</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2a2d9b88-7a84-4c34-a284-b72361bc0e2a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Ptolemy_Setting_Akun_HP</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
