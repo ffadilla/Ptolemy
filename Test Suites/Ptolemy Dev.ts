@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Daftar</name>
+   <name>Ptolemy Dev</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient>asonkism@gmail.com;</mailRecipient>
@@ -15,5 +15,11 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/PtolemySignUp</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>29abb45f-fab2-4822-9a0a-c32ddfa2005c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PtolemySignUpOutlook</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
