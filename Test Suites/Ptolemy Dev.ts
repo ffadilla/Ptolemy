@@ -46,4 +46,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Ptolemy_Setting_Akun_HP</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>29800975-b8fc-409c-a213-43d5608af7b1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Ptolemy_Up_Akun</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
