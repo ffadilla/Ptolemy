@@ -52,4 +52,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Ptolemy_Up_Akun</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>29396554-9c41-47cd-a519-87242f880d11</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Ptolemy_Up_AkunVACancel</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
