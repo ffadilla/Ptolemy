@@ -52,21 +52,15 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Ptolemy_Upgrade/Page_Su
 
 WebUI.click(findTestObject('Object Repository/Ptolemy_Upgrade/Page_Subscription Page - KODE/button_Konfirmasi Pembayaran'))
 
-WebUI.delay(8)
+WebUI.delay(7)
 
-WebUI.click(findTestObject('Ptolemy_Upgrade/Page_Subscription Page - KODE/Page_KODE/button_Mulai Belajar'))
-
-WebUI.click(findTestObject('Ptolemy_Upgrade/Page_Home - KODE/Page_Home - KODE/div_NJ'))
-
-WebUI.click(findTestObject('Ptolemy_SettingProfile/Page_Home - KODE/a_Pengaturan Akun'))
-
-WebUI.click(findTestObject('Ptolemy_Upgrade/Page_Subscription Page - KODE/Page_Profil Saya - KODE/span_Status Berlangganan'))
+WebUI.refresh()
 
 WebUI.click(findTestObject('Object Repository/Ptolemy_Upgrade/Page_Subscription Page - KODE/button_Cancel Membership'))
 
 WebUI.click(findTestObject('Object Repository/Ptolemy_Upgrade/Page_Subscription Page - KODE/button_Ya'))
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/Ptolemy_Upgrade/Page_Subscription Page - KODE/div_NJ'))
 
