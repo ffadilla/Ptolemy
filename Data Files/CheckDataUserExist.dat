@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>CheckDataUserExist</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>96839f37-d842-4d16-b917-e409a6f38731</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>DBData</driver>
+   <isInternalPath>false</isInternalPath>
+   <password>MXdyaXRlY29kZTRmdW4=</password>
+   <query>SELECT &quot;userId&quot;
+FROM &quot;UserCompanies&quot;
+WHERE &quot;userId&quot;= '3ec62725-b38c-451d-bec8-3cd295d94209' is null;</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>kodeauthors</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
