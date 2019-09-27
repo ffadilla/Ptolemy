@@ -25,9 +25,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Home_CariKelas/Page_Log
 
 WebUI.click(findTestObject('Object Repository/Home_CariKelas/Page_Login ke KODE/button_Masuk'))
 
-WebUI.click(findTestObject('Object Repository/Home_CariKelas/Page_Home - KODE/button_Cari Kelas'))
+WebUI.click(findTestObject('Home_CariKelas/Page_Home - KODE/Page_Home - KODE/a_catalog'))
 
-WebUI.scrollToElement(findTestObject('Home_CariKelas/Page_Katalog Course - KODE/span_Versioning Control Menggunakan GIT'), 
+WebUI.scrollToElement(findTestObject('Object Repository/Home_CariKelas/Page_Katalog Course - KODE/span_Versioning Control Menggunakan GIT'), 
     0)
 
 WebUI.scrollToPosition(10, 0)
@@ -40,11 +40,12 @@ WebUI.click(findTestObject('Object Repository/Home_CariKelas/Page_KODE/a_home'))
 
 WebUI.click(findTestObject('Object Repository/Home_CariKelas/Page_Home - KODE/a_Lihat Semua'))
 
-WebUI.waitForElementPresent(findTestObject('Home_CariKelas/Page_Kelas Saya - KODE/span_Kelas yang Sedang Saya Ambil'), 100)
+WebUI.waitForElementPresent(findTestObject('Object Repository/Home_CariKelas/Page_Kelas Saya - KODE/span_Kelas yang Sedang Saya Ambil'), 
+    100)
 
 WebUI.click(findTestObject('Object Repository/Home_CariKelas/Page_Kelas Saya - KODE/a_catalog'))
 
-WebUI.click(findTestObject('Home_CariKelas/Page_Katalog Course - KODE/Page_Katalog Course - KODE/div_EE'))
+WebUI.click(findTestObject('Home_CariKelas/Page_Katalog Course - KODE/Page_Katalog Course - KODE/Page_Katalog Course - KODE/Page_Katalog Course - KODE/div_NJ'))
 
-WebUI.click(findTestObject('Home_CariKelas/Page_Katalog Course - KODE/Page_Katalog Course - KODE/Page_Katalog Course - KODE/span_logout'))
+WebUI.click(findTestObject('Home_CariKelas/Page_Katalog Course - KODE/Page_Katalog Course - KODE/Page_Katalog Course - KODE/Page_Katalog Course - KODE/span_logout'))
 

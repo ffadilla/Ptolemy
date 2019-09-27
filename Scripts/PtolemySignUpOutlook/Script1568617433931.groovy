@@ -12,6 +12,7 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
@@ -64,9 +65,13 @@ WebUI.click(findTestObject('Hotmail/Page_Sign in to your Microsoft account/input
 WebUI.setText(findTestObject('Hotmail/Page_Mail - Kode Testing01 - Outlook/Page_Mail - Kode Testing01 - Outlook/input_Outlook__1Qs0_GHrFMawJzYAmLNL2x _1LtnCG5oLbhQOwtufJyBi8'), 
     'support')
 
-WebUI.click(findTestObject('Object Repository/Hotmail/Page_Mail - Kode Testing01 - Outlook/i_'))
+WebUI.sendKeys(findTestObject('Hotmail/Page_Mail - Kode Testing01 - Outlook/Page_Mail - Kode Testing01 - Outlook/button_'), 
+    Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Hotmail/Page_Mail - Kode Testing01 - Outlook/Page_Mail - Kode Testing01 - Outlook/Page_Mail - Kode Testing01 - Outlook/div_Terima kasih sudah mendaftarkan diri di KODE'))
+WebUI.scrollToElement(findTestObject('Hotmail/Page_Mail - Kode Testing01 - Outlook/Page_Mail - Kode Testing01 - Outlook/Page_Mail - Kode Testing01 - Outlook/div_Ssupportkodeid'), 
+    5)
+
+WebUI.click(findTestObject('Hotmail/Page_Mail - Kode Testing01 - Outlook/Page_Mail - Kode Testing01 - Outlook/Page_Mail - Kode Testing01 - Outlook/div_Ssupportkodeid'))
 
 WebUI.click(findTestObject('Object Repository/Hotmail/Page_Mail - Kode Testing01 - Outlook/a_Verifikasi Email'))
 
@@ -78,7 +83,7 @@ WebUI.click(findTestObject('Object Repository/Hotmail/Page_Login ke KODE/div_Ala
 
 WebUI.setText(findTestObject('Object Repository/Hotmail/Page_Login ke KODE/input_Alamat Email_email'), 'kodetesting01@hotmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Hotmail/Page_Login ke KODE/input_Password_password'), 'RuFO4XwVuE6tgrEU94SbqQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Hotmail/Page_Login ke KODE/input_Password_password'), 'b7O+JRsCsz7V7rjbOYIJ/g==')
 
 WebUI.click(findTestObject('Object Repository/Hotmail/Page_Login ke KODE/button_Masuk'))
 

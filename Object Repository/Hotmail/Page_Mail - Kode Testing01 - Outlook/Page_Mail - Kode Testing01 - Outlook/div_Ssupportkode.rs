@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_EE</name>
+   <name>div_Ssupportkode</name>
    <tag></tag>
-   <elementGuidId>7e5aa3bf-e9f3-4bea-879d-cb59ea4f59ac</elementGuidId>
+   <elementGuidId>7a1044a6-ba64-4353-94b8-9ca687d28dc7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='page-CourseClassroom']/div/div/div[2]/div[2]/div/div</value>
+         <value>//div[@id='567269d6-fba2-0caf-7a13-c0f26d69bb56']/div/div/div</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//div[@class = 'css-1mhr8mi' and (text() = 'NJ' or . = 'NJ')]</value>
+         <value>//div[(text() = 'Ssupport@kode.idUndangan untuk bergabung di KODEMon 4:41 PMYour username is kodetesting01hotmailcom and temporary password is K15d3d39a1be64a89b8b4566b0bf272bbD.Inbox' or . = 'Ssupport@kode.idUndangan untuk bergabung di KODEMon 4:41 PMYour username is kodetesting01hotmailcom and temporary password is K15d3d39a1be64a89b8b4566b0bf272bbD.Inbox')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,64 +26,50 @@
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>unselectable</name>
-      <type>Main</type>
-      <value>on</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>css-1mhr8mi</value>
+      <value>_1hHMVrN7VV4d6Ylz-FsMuP _18LAllQi61d4a4XNAr9prg</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>NJ</value>
+      <value>Ssupport@kode.idUndangan untuk bergabung di KODEMon 4:41 PMYour username is kodetesting01hotmailcom and temporary password is K15d3d39a1be64a89b8b4566b0bf272bbD.Inbox</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;page-CourseClassroom&quot;)/div[@class=&quot;flex flex-column&quot;]/div[@class=&quot;css-6moz6r&quot;]/div[@class=&quot;css-1qp5j5e&quot;]/div[@class=&quot;css-5jobrw&quot;]/div[@class=&quot;css-l5dxzc&quot;]/div[@class=&quot;css-1mhr8mi&quot;]</value>
+      <value>id(&quot;567269d6-fba2-0caf-7a13-c0f26d69bb56&quot;)/div[1]/div[@class=&quot;_1yIHkYLrqDZpAMQ3L2YILh _1E-ojjaYGhOxCgHp9Pe315 _1zRzYBa3Ymm8oRb7igyJMT _2-6Yr-35EHcBYQQ-DulaxW _2Ht9U0YzzfQGXALqVdO2MN&quot;]/div[@class=&quot;_1hHMVrN7VV4d6Ylz-FsMuP _18LAllQi61d4a4XNAr9prg&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='page-CourseClassroom']/div/div/div[2]/div[2]/div/div</value>
+      <value>//div[@id='567269d6-fba2-0caf-7a13-c0f26d69bb56']/div/div/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='E'])[1]/following::div[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top results'])[1]/following::div[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='upgrade'])[1]/following::div[3]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='pribadi'])[1]/preceding::div[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Results'])[1]/following::div[12]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div/div/div[2]/div[2]/div/div</value>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/div/div[2]/div/div/div</value>
    </webElementXpaths>
 </WebElementEntity>

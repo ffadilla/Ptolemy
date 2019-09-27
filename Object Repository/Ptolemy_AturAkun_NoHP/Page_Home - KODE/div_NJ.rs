@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_EE</name>
+   <name>div_NJ</name>
    <tag></tag>
-   <elementGuidId>7e5aa3bf-e9f3-4bea-879d-cb59ea4f59ac</elementGuidId>
+   <elementGuidId>e28a865a-e0d2-4ef5-ab00-6327c03f89f9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='page-CourseClassroom']/div/div/div[2]/div[2]/div/div</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//div[@class = 'css-1mhr8mi' and (text() = 'NJ' or . = 'NJ')]</value>
+         <value>//div[@id='page-HomePage']/div/div/div[2]/div[2]/div/div</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,11 +27,11 @@
       <value>on</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>css-1mhr8mi</value>
+      <value>css-d8txqd</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,21 +45,21 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;page-CourseClassroom&quot;)/div[@class=&quot;flex flex-column&quot;]/div[@class=&quot;css-6moz6r&quot;]/div[@class=&quot;css-1qp5j5e&quot;]/div[@class=&quot;css-5jobrw&quot;]/div[@class=&quot;css-l5dxzc&quot;]/div[@class=&quot;css-1mhr8mi&quot;]</value>
+      <value>id(&quot;page-HomePage&quot;)/div[@class=&quot;flex flex-column&quot;]/div[@class=&quot;css-6moz6r&quot;]/div[@class=&quot;css-1qp5j5e&quot;]/div[@class=&quot;css-5jobrw&quot;]/div[@class=&quot;css-l5dxzc&quot;]/div[@class=&quot;css-d8txqd&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='page-CourseClassroom']/div/div/div[2]/div[2]/div/div</value>
+      <value>//div[@id='page-HomePage']/div/div/div[2]/div[2]/div/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='E'])[1]/following::div[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NorakMicMicMicMicMicMic'])[1]/following::div[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -84,6 +80,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div/div/div[2]/div[2]/div/div</value>
+      <value>//div[2]/div[2]/div/div</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -34,7 +34,7 @@ WebUI.setText(findTestObject('Ptolemy/Page_Daftar ke KODE/input_Last Name_lastNa
 
 WebUI.click(findTestObject('Ptolemy/Page_Daftar ke KODE/div_Email'))
 
-WebUI.setText(findTestObject('Ptolemy/Page_Daftar ke KODE/input_Email_email'), 'ff@gmail.com')
+WebUI.setText(findTestObject('Ptolemy/Page_Daftar ke KODE/input_Email_email'), 'kodetesting06@gmail.com')
 
 WebUI.click(findTestObject('Ptolemy/Page_Daftar ke KODE/div_Password'))
 
@@ -60,7 +60,7 @@ WebUI.switchToWindowTitle('Gmail')
 
 WebUI.click(findTestObject('Gmail/Page_Gmail/input_Lanjutkan ke Gmail_identifier'))
 
-WebUI.setText(findTestObject('Gmail/Page_Gmail/input_Lanjutkan ke Gmail_identifier'), 'ffadilla@kode.id')
+WebUI.setText(findTestObject('Gmail/Page_Gmail/input_Lanjutkan ke Gmail_identifier'), 'kodetesting06@gmail.com')
 
 WebUI.click(findTestObject('Ptolemy/New Ptolemy/Page_Gmail/span_Berikutnya'))
 
@@ -72,34 +72,28 @@ WebUI.click(findTestObject('Ptolemy/New Ptolemy/Page_Gmail/span_BerikutPass'))
 
 WebUI.delay(20)
 
-WebUI.click(findTestObject('Gmail/Page_Gmail/input_G-_idvPin'))
-
-WebUI.setText(findTestObject('Gmail/Page_Gmail/input_G-_idvPin'), '131111')
-
-WebUI.click(findTestObject('Gmail/Page_Gmail/span_Berikutnya'))
-
-WebUI.delay(15)
-
 WebUI.click(findTestObject('Gmail/Page_Inbox/input_Search_q'))
 
 WebUI.setText(findTestObject('Gmail/Page_Inbox/input_Search_q'), 'support')
 
-WebUI.click(findTestObject('Ptolemy/New Ptolemy/Page_Gmail/Page_Inbox - ffadillakodeid - Hacktiv8 Mail/div_Selamat datang di KODE semua bisa belajarSep 13supportkodeid ffadillakodeid'))
+WebUI.sendKeys(findTestObject('Page_Inbox (1) - kodetesting06gmailcom - Gmail/button_Search_gb_pf gb_qf'), Keys.chord(Keys.ENTER))
 
-WebUI.delay(15)
+WebUI.click(findTestObject('Page_Inbox (1) - kodetesting06gmailcom - Gmail/Page_Search results - kodetesting06gmailcom - Gmail/div_support'))
 
-WebUI.click(findTestObject('Ptolemy/New Ptolemy/Page_Selamat datang di KODE semua bisa belajar - ffadillakodeid - Hacktiv8 Mail/a_Verifikasi Email'))
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Page_Inbox (1) - kodetesting06gmailcom - Gmail/Page_Selamat datang di KODE semua bisa belajar - kodetesting06gmailcom - Gmail/a_Verifikasi Email'))
 
 WebUI.switchToWindowTitle('Verify Email KODE')
 
 WebUI.click(findTestObject('Ptolemy/New Ptolemy/Page_Verify Email KODE/span_Login ke Akun'))
 
-WebUI.setText(findTestObject('Object Repository/Ptolemy/New Ptolemy/Page_Login ke KODE/input_Alamat Email_email'), 'ffadilla@kode.id')
+WebUI.setText(findTestObject('Object Repository/Ptolemy/New Ptolemy/Page_Login ke KODE/input_Alamat Email_email'), 'kodetesting06@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/Ptolemy/New Ptolemy/Page_Login ke KODE/div_Password'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Ptolemy/New Ptolemy/Page_Login ke KODE/input_Password_password'), 
-    'b7O+JRsCsz74e265CFa56A==')
+    'b7O+JRsCsz7V7rjbOYIJ/g==')
 
 WebUI.click(findTestObject('Object Repository/Ptolemy/New Ptolemy/Page_Login ke KODE/button_Masuk'))
 

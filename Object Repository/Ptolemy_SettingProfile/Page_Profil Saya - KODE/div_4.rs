@@ -6,15 +6,15 @@
    <elementGuidId>416538a6-f499-49e4-ab7f-ce81f61daf2a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>id(&quot;react-select-3-option-3&quot;)[count(. | //div[@id = 'react-select-3-option-3' and (text() = '4' or . = '4')]) = count(//div[@id = 'react-select-3-option-3' and (text() = '4' or . = '4')])]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='react-select-3-option-3']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;react-select-3-option-3&quot;)[count(. | //div[@id = 'react-select-3-option-3' and (text() = '4' or . = '4')]) = count(//div[@id = 'react-select-3-option-3' and (text() = '4' or . = '4')])]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>

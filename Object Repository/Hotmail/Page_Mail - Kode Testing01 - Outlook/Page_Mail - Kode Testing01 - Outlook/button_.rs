@@ -1,110 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_5</name>
+   <name>button_</name>
    <tag></tag>
-   <elementGuidId>094d14fe-d630-4405-beac-a7378455b857</elementGuidId>
+   <elementGuidId>9b92efce-79ee-47ae-8daa-8f26e0f134ee</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='react-select-3-option-4']</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>id(&quot;react-select-3-option-4&quot;)[count(. | //div[@id = 'react-select-3-option-4' and (text() = '5' or . = '5')]) = count(//div[@id = 'react-select-3-option-4' and (text() = '5' or . = '5')])]</value>
+         <value>(//button[@type='button'])[3]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value> css-1ulq11h-option</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>react-select-3-option-4</value>
+      <value>ms-Button ms-Button--icon _33tO85F3n_fu7qMMmS4oN3 root-58</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>aria-label</name>
       <type>Main</type>
-      <value>-1</value>
+      <value>Search</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-is-focusable</name>
+      <type>Main</type>
+      <value>true</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>5</value>
+      <value></value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react-select-3-option-4&quot;)</value>
+      <value>id(&quot;owaSearchBox&quot;)/div[@class=&quot;_1eqJPA3QUcsuxB2BeAOUbh&quot;]/div[1]/div[@class=&quot;_1IASxdr5glbGM5ZXvqT4EN _5qNpXCd-7jY8_77B7v2Nm&quot;]/button[@class=&quot;ms-Button ms-Button--icon _33tO85F3n_fu7qMMmS4oN3 root-58&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='react-select-3-option-4']</value>
+      <value>(//button[@type='button'])[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='page-ChangeProfilePage']/div/div[2]/div[2]/div/div/div/div/form/div[4]/div/div/div/div/div[2]/div/div[5]</value>
+      <value>//div[@id='owaSearchBox']/div/div/div/button</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal'])[1]/following::div[17]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/following::button[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perempuan'])[1]/following::div[28]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outlook'])[1]/following::button[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulan'])[1]/preceding::div[28]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::button[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feb'])[1]/preceding::div[28]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::button[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div[5]</value>
+      <value>//div/div[2]/div/div/div/div/div/div[2]/div/div/div/div/div/button</value>
    </webElementXpaths>
 </WebElementEntity>

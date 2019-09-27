@@ -9,6 +9,10 @@
          <key>XPATH</key>
          <value>//div[@id='page-ChangeProfilePage']/div/div[2]/div[2]/div/div/div/div/form/div[3]/div/div/div/div/div/div[2]/div</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;page-ChangeProfilePage&quot;)/div[@class=&quot;flex flex-column&quot;]/div[@class=&quot;css-1r6cy3i&quot;]/div[@class=&quot;flex flex-column w-100 flex w-100 css-mglkre&quot;]/div[@class=&quot;flex flex-column pt5 pb4 pr4&quot;]/div[1]/div[@class=&quot;w-100&quot;]/div[@class=&quot;pt2 pb4 flex flex-column w-100 css-6k51kr&quot;]/form[1]/div[@class=&quot;flex flex-row ph5 mv4-ns mv3&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;w-100 pl3 pr2 pv1 br3 flex flex-row align-center outline-0 css-8ikitr&quot;]/div[@class=&quot;w-100 ml2 flex flex-column justify-start align-start&quot;]/div[@class=&quot;dropdown-selector css-1f7zotf-container&quot;]/div[@class=&quot;css-rho7kb&quot;]/div[@class=&quot;css-1wy0on6&quot;]/div[@class=&quot;css-1gtu0rj-indicatorContainer&quot;]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>

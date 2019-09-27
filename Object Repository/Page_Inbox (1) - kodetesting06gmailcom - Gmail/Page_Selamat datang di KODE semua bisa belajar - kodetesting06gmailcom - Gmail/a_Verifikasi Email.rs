@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Verifikasi Email</name>
+   <tag></tag>
+   <elementGuidId>d38be662-7517-408d-9da7-39ee19924568</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=':2w']/div/div/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/table/tbody/tr/td/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = 'https://ptolemy.kode.id/verify-email?clientId=43pnru5cbe0gs4a2aas603fhpc&amp;userName=kodetesting06gmailcom&amp;code=251189&amp;region=ap-southeast-1&amp;email=kodetesting06@gmail.com' and (text() = ' Verifikasi Email ' or . = ' Verifikasi Email ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ptolemy.kode.id/verify-email?clientId=43pnru5cbe0gs4a2aas603fhpc&amp;userName=kodetesting06gmailcom&amp;code=251189&amp;region=ap-southeast-1&amp;email=kodetesting06@gmail.com</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-saferedirecturl</name>
+      <type>Main</type>
+      <value>https://www.google.com/url?q=https://ptolemy.kode.id/verify-email?clientId%3D43pnru5cbe0gs4a2aas603fhpc%26userName%3Dkodetesting06gmailcom%26code%3D251189%26region%3Dap-southeast-1%26email%3Dkodetesting06@gmail.com&amp;source=gmail&amp;ust=1569571713812000&amp;usg=AFQjCNE78PngUHwIDc_Eb5Jzc8t3ZrgVZQ</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Verifikasi Email </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:2w&quot;)/div[1]/div[1]/div[@class=&quot;m_2187808717148780573shadow m_2187808717148780573white&quot;]/table[1]/tbody[1]/tr[1]/td[1]/div[@class=&quot;m_2187808717148780573mj-column-per-100&quot;]/table[1]/tbody[1]/tr[2]/td[@class=&quot;m_2187808717148780573btn-primary-red&quot;]/table[1]/tbody[1]/tr[1]/td[1]/a[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':2w']/div/div/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/table/tbody/tr/td/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Verifikasi Email')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KODE'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abaikan E-mail ini jika kamu merasa tidak pernah mendaftarkan diri untuk membuat akun di KODE.'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ketentuan Penggunaan'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ptolemy.kode.id/verify-email?clientId=43pnru5cbe0gs4a2aas603fhpc&amp;userName=kodetesting06gmailcom&amp;code=251189&amp;region=ap-southeast-1&amp;email=kodetesting06@gmail.com')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+   </webElementXpaths>
+</WebElementEntity>

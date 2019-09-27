@@ -77,7 +77,7 @@ WebUI.scrollToPosition(10, 40)
 
 WebUI.click(findTestObject('Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/Page_Profil Saya - KODE/Page_Profil Saya - KODE/button_Simpan Perubahan'))
 
-WebUI.click(findTestObject('Object Repository/Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/div_EE'))
+WebUI.click(findTestObject('Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/div_NJ'))
 
 WebUI.click(findTestObject('Object Repository/Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/span_logout'))
 

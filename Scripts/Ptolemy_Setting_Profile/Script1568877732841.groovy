@@ -28,9 +28,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Ptolemy_SettingProfile/
 WebUI.sendKeys(findTestObject('Ptolemy_FilterBelajar/Page_Login ke KODE/Page_Login ke KODE/Page_Login ke KODE/button_Masuk'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Ptolemy_SettingProfile/Page_Home - KODE/div_EE'))
+WebUI.click(findTestObject('Ptolemy_SettingProfile/Page_Home - KODE/Page_Home - KODE/div_NJ'))
 
-WebUI.click(findTestObject('Object Repository/Ptolemy_SettingProfile/Page_Home - KODE/a_Pengaturan Akun'))
+WebUI.click(findTestObject('Ptolemy_SettingProfile/Page_Home - KODE/Page_Home - KODE/a_Pengaturan Akun'))
 
 WebUI.click(findTestObject('Ptolemy_SettingProfile/Page_Profil Saya - KODE/input_Nama Depan_firstName'))
 
@@ -83,7 +83,7 @@ WebUI.click(findTestObject('Ptolemy_SettingProfile/Page_Profil Saya - KODE/butto
 
 WebUI.click(findTestObject('Ptolemy_SettingProfile/Page_Profil Saya - KODE/a_catalog'))
 
-WebUI.click(findTestObject('Ptolemy_SettingProfile/Page_Katalog Course - KODE/div_EE'))
+WebUI.click(findTestObject('Ptolemy_SettingProfile/Page_Katalog Course - KODE/Page_Katalog Course - KODE/div_NJ'))
 
-WebUI.click(findTestObject('Ptolemy_SettingProfile/Page_Katalog Course - KODE/span_logout'))
+WebUI.click(findTestObject('Ptolemy_SettingProfile/Page_Katalog Course - KODE/Page_Katalog Course - KODE/span_logout'))
 

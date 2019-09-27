@@ -27,9 +27,9 @@ WebUI.setEncryptedText(findTestObject('Ptolemy_FilterBelajar/Page_Login ke KODE/
 WebUI.sendKeys(findTestObject('Ptolemy_FilterBelajar/Page_Login ke KODE/Page_Login ke KODE/Page_Login ke KODE/button_Masuk'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Ptolemy_AturAkun_NoHP/Page_Home - KODE/div_EE'))
+WebUI.click(findTestObject('Ptolemy_AturAkun_NoHP/Page_Home - KODE/Page_Home - KODE/div_NJ'))
 
-WebUI.click(findTestObject('Object Repository/Ptolemy_AturAkun_NoHP/Page_Home - KODE/a_Pengaturan Akun'))
+WebUI.click(findTestObject('Ptolemy_AturAkun_NoHP/Page_Home - KODE/Page_Home - KODE/a_Pengaturan Akun'))
 
 WebUI.setText(findTestObject('Object Repository/Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/input_Nama Depan_firstName'), 
     'Ferri')
@@ -62,10 +62,10 @@ WebUI.setText(findTestObject('Object Repository/Ptolemy_AturAkun_NoHP/Page_Profi
 
 WebUI.click(findTestObject('Object Repository/Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/button_Request Kode OTP'))
 
-WebUI.setMaskedText(findTestObject('Object Repository/Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/input_Verifikasi Nomor Handphone_css-1oku0es'), 
+WebUI.setText(findTestObject('Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/Page_Profil Saya - KODE/Page_Profil Saya - KODE/Page_Profil Saya - KODE/Page_Profil Saya - KODE/input_Verifikasi Nomor Handphone_css-1oku0es'), 
     '507371')
 
-WebUI.click(findTestObject('Object Repository/Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/button_Simpan Perubahan'))
+WebUI.delay(10)
 
 WebUI.scrollToPosition(0, 30)
 
@@ -77,7 +77,7 @@ WebUI.scrollToPosition(10, 40)
 
 WebUI.click(findTestObject('Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/Page_Profil Saya - KODE/Page_Profil Saya - KODE/button_Simpan Perubahan'))
 
-WebUI.click(findTestObject('Object Repository/Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/div_EE'))
+WebUI.click(findTestObject('Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/Page_Profil Saya - KODE/Page_Profil Saya - KODE/Page_Profil Saya - KODE/div_NJ'))
 
-WebUI.click(findTestObject('Object Repository/Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/span_logout'))
+WebUI.click(findTestObject('Ptolemy_AturAkun_NoHP/Page_Profil Saya - KODE/Page_Profil Saya - KODE/Page_Profil Saya - KODE/Page_Profil Saya - KODE/span_logout'))
 

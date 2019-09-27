@@ -9,8 +9,12 @@
          <key>XPATH</key>
          <value>//div[@id='react-select-4-option-5']</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;react-select-4-option-5&quot;)[count(. | //div[@id = 'react-select-4-option-5' and (text() = 'Jun' or . = 'Jun')]) = count(//div[@id = 'react-select-4-option-5' and (text() = 'Jun' or . = 'Jun')])]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +52,7 @@
       <value>Jun</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
