@@ -87,6 +87,8 @@ WebUI.click(findTestObject('Pto_InviteUser/Page_KODE/button_Development'))
 
 WebUI.click(findTestObject('Pto_InviteUser/Page_KODE/button_simpan'))
 
+WebUI.delay(10)
+
 WebUI.click(findTestObject('Pto_InviteUser/Page_Katalog Course - KODE/button_mulai belajar'))
 
 WebUI.click(findTestObject('Pto_InviteUser/Page_Katalog Course - KODE/a_home'))

@@ -6,11 +6,15 @@
    <elementGuidId>a31b0c7d-6603-4649-ad5a-0d0a59825d2b</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//button[@type = 'button' and @class = 'css-1muof9f' and (text() = 'mulai belajar' or . = 'mulai belajar')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[18]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -27,7 +31,7 @@
       <value>button</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
