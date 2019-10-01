@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Keluar</name>
+   <tag></tag>
+   <elementGuidId>50c8ae4a-c96d-4181-b612-e11d2a62a9ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;ybarAccountMenuBody&quot;)/a[@class=&quot;_yb_cyrbb _yb_114pe _yb_1thwb _yb_1r8ue _yb_yudgy _yb_136d6&quot;][count(. | //a[@href = 'https://login.yahoo.com/account/logout?logout_all=1&amp;.direct=2&amp;crumb=irFoWKEwUKG&amp;.done=https%3A%2F%2Fid.yahoo.com%2F' and @data-sol = 'https://login.yahoo.com/manage_account' and @data-ylk = 'sec:yb_accounts;slk:sign out;itc:0;' and @class = '_yb_cyrbb _yb_114pe _yb_1thwb _yb_1r8ue _yb_yudgy _yb_136d6' and @data-rapid_p = '13' and (text() = 'Keluar' or . = 'Keluar')]) = count(//a[@href = 'https://login.yahoo.com/account/logout?logout_all=1&amp;.direct=2&amp;crumb=irFoWKEwUKG&amp;.done=https%3A%2F%2Fid.yahoo.com%2F' and @data-sol = 'https://login.yahoo.com/manage_account' and @data-ylk = 'sec:yb_accounts;slk:sign out;itc:0;' and @class = '_yb_cyrbb _yb_114pe _yb_1thwb _yb_1r8ue _yb_yudgy _yb_136d6' and @data-rapid_p = '13' and (text() = 'Keluar' or . = 'Keluar')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ybarAccountMenuBody']/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://login.yahoo.com/account/logout?logout_all=1&amp;.direct=2&amp;crumb=irFoWKEwUKG&amp;.done=https%3A%2F%2Fid.yahoo.com%2F</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sol</name>
+      <type>Main</type>
+      <value>https://login.yahoo.com/manage_account</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ylk</name>
+      <type>Main</type>
+      <value>sec:yb_accounts;slk:sign out;itc:0;</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_yb_cyrbb _yb_114pe _yb_1thwb _yb_1r8ue _yb_yudgy _yb_136d6</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-rapid_p</name>
+      <type>Main</type>
+      <value>13</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Keluar</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ybarAccountMenuBody&quot;)/a[@class=&quot;_yb_cyrbb _yb_114pe _yb_1thwb _yb_1r8ue _yb_yudgy _yb_136d6&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ybarAccountMenuBody']/a[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah atau Kelola akun'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[1]/following::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yahoo'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://login.yahoo.com/account/logout?logout_all=1&amp;.direct=2&amp;crumb=irFoWKEwUKG&amp;.done=https%3A%2F%2Fid.yahoo.com%2F')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+   </webElementXpaths>
+</WebElementEntity>
