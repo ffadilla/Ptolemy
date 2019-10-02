@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Select ActionRe-inviteCancel Invitation</name>
+   <name>span_Kembali</name>
    <tag></tag>
-   <elementGuidId>146e01d8-88f0-45ff-9813-233a1b69a720</elementGuidId>
+   <elementGuidId>f0137201-a8d3-4e11-ac38-dce5d81ddb6c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//select[(text() = 'Select ActionRe-inviteCancel Invitation' or . = 'Select ActionRe-inviteCancel Invitation')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//div[@id='page-People Management']/div/div[2]/div/div[2]/div[2]/div/div/div/div/select</value>
+         <value>//div[@id='mail-app-component']/div[2]/div/button/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,69 +17,62 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>select</value>
+      <value>span</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>css-10yijg3</value>
+      <value>D_F ab_C gl_C W_6D6F</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Select ActionRe-inviteCancel Invitation</value>
+      <value>Kembali</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;page-People Management&quot;)/div[@class=&quot;flex flex-column&quot;]/div[@class=&quot;css-1xw5qc2&quot;]/div[@class=&quot;css-11ybfq3&quot;]/div[@class=&quot;css-1ago99h&quot;]/div[@class=&quot;css-11l38wv&quot;]/div[1]/div[@class=&quot;css-1aqxkx3&quot;]/div[@class=&quot;css-1cegf44&quot;]/div[@class=&quot;css-ofoodg&quot;]/select[@class=&quot;css-10yijg3&quot;]</value>
+      <value>id(&quot;mail-app-component&quot;)/div[@class=&quot;D_F ek_BB p_a Z_0 L_0 R_0 T_0 B_0 cZ1RN91d_GG I_T&quot;]/div[@class=&quot;ab_C k_w D_F H_7bcz en_0 P_2bJhi p_R m_ZYfFSw I_T gl_FM C_52qC cdPFi_52qC&quot;]/button[@class=&quot;c27KHO0_n b_0 M_0 i_0 I_T y_Z2uhb3X A_6EqO r_P C_q cvhIH6_T ir3_1JO2M7 P_eo6 J_x cdPFi_q E_fq7&quot;]/span[@class=&quot;D_F ab_C gl_C W_6D6F&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='page-People Management']/div/div[2]/div/div[2]/div[2]/div/div/div/div/select</value>
+      <value>//div[@id='mail-app-component']/div[2]/div/button/span</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teams'])[1]/following::select[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapatkan info terbaru tentang video terpopuler di Yahoo'])[1]/following::span[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admins'])[1]/following::select[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Masuk'])[2]/following::span[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/preceding::select[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invites Expiration'])[1]/preceding::select[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arsipkan'])[1]/preceding::span[5]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//select</value>
+      <value>//div[2]/div/button/span</value>
    </webElementXpaths>
 </WebElementEntity>

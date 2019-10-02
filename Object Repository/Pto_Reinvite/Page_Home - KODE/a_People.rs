@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>select_Select ActionRe-inviteCancel Invitation</name>
+   <name>a_People</name>
    <tag></tag>
-   <elementGuidId>146e01d8-88f0-45ff-9813-233a1b69a720</elementGuidId>
+   <elementGuidId>848f156d-6725-4f28-9e9e-614004def3c2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//select[(text() = 'Select ActionRe-inviteCancel Invitation' or . = 'Select ActionRe-inviteCancel Invitation')]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
-         <value>//div[@id='page-People Management']/div/div[2]/div/div[2]/div[2]/div/div/div/div/select</value>
+         <value>//div[@id='page-HomePage']/div/div/div[2]/div/div[2]/div/div[4]/a[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,69 +17,97 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>select</value>
+      <value>a</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>css-10yijg3</value>
+      <value>css-z32buo</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-current</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/organization/dd4c8941-0eab-43f9-a46f-6006685a7efa/people-management</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Select ActionRe-inviteCancel Invitation</value>
+      <value>People</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;page-People Management&quot;)/div[@class=&quot;flex flex-column&quot;]/div[@class=&quot;css-1xw5qc2&quot;]/div[@class=&quot;css-11ybfq3&quot;]/div[@class=&quot;css-1ago99h&quot;]/div[@class=&quot;css-11l38wv&quot;]/div[1]/div[@class=&quot;css-1aqxkx3&quot;]/div[@class=&quot;css-1cegf44&quot;]/div[@class=&quot;css-ofoodg&quot;]/select[@class=&quot;css-10yijg3&quot;]</value>
+      <value>id(&quot;page-HomePage&quot;)/div[@class=&quot;flex flex-column&quot;]/div[@class=&quot;css-6moz6r&quot;]/div[@class=&quot;css-1qp5j5e&quot;]/div[@class=&quot;css-5jobrw&quot;]/div[@class=&quot;css-1ixbbva&quot;]/div[@class=&quot;css-ke76o6&quot;]/div[@class=&quot;css-vnyvoi&quot;]/a[@class=&quot;css-z32buo&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='page-People Management']/div/div[2]/div/div[2]/div[2]/div/div/div/div/select</value>
+      <value>//div[@id='page-HomePage']/div/div/div[2]/div/div[2]/div/div[4]/a[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'People')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teams'])[1]/following::select[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admins'])[1]/following::select[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/preceding::select[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analytics'])[1]/preceding::a[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invites Expiration'])[1]/preceding::select[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='logout'])[1]/preceding::a[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/organization/dd4c8941-0eab-43f9-a46f-6006685a7efa/people-management')]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//select</value>
+      <value>//div[4]/a[3]</value>
    </webElementXpaths>
 </WebElementEntity>

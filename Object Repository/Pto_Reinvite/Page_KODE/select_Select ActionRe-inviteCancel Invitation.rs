@@ -3,12 +3,8 @@
    <description></description>
    <name>select_Select ActionRe-inviteCancel Invitation</name>
    <tag></tag>
-   <elementGuidId>146e01d8-88f0-45ff-9813-233a1b69a720</elementGuidId>
+   <elementGuidId>c9ed570f-5c85-4d73-a360-519cfc659762</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>BASIC</key>
-         <value>//select[(text() = 'Select ActionRe-inviteCancel Invitation' or . = 'Select ActionRe-inviteCancel Invitation')]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='page-People Management']/div/div[2]/div/div[2]/div[2]/div/div/div/div/select</value>
