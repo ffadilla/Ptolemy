@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Move</name>
    <tag></tag>
-   <elementGuidId>af4d60ed-f5d4-4cfc-b8dd-b10b9eca0eac</elementGuidId>
+   <elementGuidId>e89b44f2-b4b7-4338-8fcf-98b78e98fef6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>id(&quot;page-People Management&quot;)/div[@class=&quot;flex flex-column&quot;]/div[@class=&quot;css-1xw5qc2&quot;]/div[@class=&quot;css-11ybfq3&quot;]/div[@class=&quot;css-1ago99h&quot;]/div[@class=&quot;css-11l38wv&quot;]/div[@class=&quot;css-q6tfov&quot;]/div[@class=&quot;css-14vrdkt&quot;]/div[@class=&quot;css-1dtt4ad&quot;]/div[@class=&quot;css-hwqcgh&quot;]/button[@class=&quot;css-8dfcc0&quot;][count(. | //button[@class = 'css-8dfcc0' and (text() = 'Move ' or . = 'Move ')]) = count(//button[@class = 'css-8dfcc0' and (text() = 'Move ' or . = 'Move ')])]</value>
+         <value>//button[@class = 'css-8dfcc0' and (text() = 'Move ' or . = 'Move ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -38,7 +38,7 @@
       <value>Move </value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
