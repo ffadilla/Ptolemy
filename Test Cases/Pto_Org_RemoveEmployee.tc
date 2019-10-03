@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Pto_MoveToTeam</name>
+   <name>Pto_Org_RemoveEmployee</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>46c21bfd-8c6c-4c0b-9301-eb242a010a22</testCaseGuid>
+   <testCaseGuid>d9f0915d-0dab-4e1c-bd45-fa954ed6c633</testCaseGuid>
 </TestCaseEntity>

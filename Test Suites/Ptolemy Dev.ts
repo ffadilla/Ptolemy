@@ -32,7 +32,7 @@
       <guid>fd6f92d6-9f96-4bd5-9f09-48af181b4aac</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Filter_Belajar</testCaseId>
+      <testCaseId>Test Cases/Pto_Home_FilterBelajar</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>058759af-73df-4b20-a3f5-d921e60a517e</guid>

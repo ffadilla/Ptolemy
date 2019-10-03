@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Pto_MoveBackTeam</name>
+   <name>Pto_Org_MoveBackTeam</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>093d2736-51f0-44f3-9690-9e4ff547879e</testCaseGuid>

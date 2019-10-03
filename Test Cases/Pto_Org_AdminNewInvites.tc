@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>Admin Invite New User</description>
-   <name>Pto_AdminNewInvites</name>
+   <name>Pto_Org_AdminNewInvites</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>f1210880-641c-4b3f-b2c2-793569bbb24e</testCaseGuid>
